@@ -2,10 +2,11 @@
 title: Welcome to Coffee25
 ---
 
-# Welcome
+# 🪴Welcome
+- [[index_quartz]]
+- 
 
 
-
-# Now is...
+# 🔧 Now is...
 - testing at 2024-02-02
 - 
