@@ -1,3 +1,6 @@
+# Title 수정
+> quartz.config.ts 에서의 타이틀명을 수정할 수 있다.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
